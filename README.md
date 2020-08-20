@@ -1,4 +1,4 @@
-> **NOTICE**: La documentation n'est pas L'open-source du bot, je vous évite de vous faire perdre votre temps.
+> **NOTICE**: La documentation n'est pas L'open-source du bot, j'évite de vous faire perdre votre temps.
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/Kawazoeh/Belzebuth-Documentation/master/assets/img/belzebuth_logo.png">
