@@ -15,4 +15,6 @@
 
 <p align="center">
     <a href="https://discordapp.com/oauth2/authorize?client_id=312904353532870657&permissions=8&scope=bot"><img src="https://img.shields.io/badge/Clique%20%20ici%20%20pour%20%20Ajouter%20%20Belzebuth%20%20sur%20%20ton%20%20serveur%20!-FC91C4?logo=discord&style=for-the-badge" alt="Invite"></a>
+
+<p align="center"><b>N'hésiter pas à cliquer sur le "WIKI" pour vous informer.<br>Pour signalez un bug "Issues".</b></p>
 </p>
